@@ -1,8 +1,8 @@
-# Portfolio Project
+# Cortex Project
 
 ## Overview
 
-Welcome to the Portfolio Project, a microfrontend-based application designed to showcase a modular approach to web development. This project is structured using Git submodules, allowing each segment of the application to be developed and maintained independently.
+Welcome to the Cortex Project, a microfrontend-based application designed to showcase a modular approach to web development. This project is structured using Git submodules, allowing each segment of the application to be developed and maintained independently.
 
 ## Modules
 
@@ -14,7 +14,7 @@ The project is divided into several key modules:
 
 ## Getting Started
 
-To get started with the Portfolio Project, follow these steps:
+To get started with the Cortex Project, follow these steps:
 
 ### Prerequisites
 
@@ -25,7 +25,7 @@ Ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone --recurse-submodules https://github.com/YourUsername/Portfolio-Project.git
+git clone --recurse-submodules https://github.com/EdSpurrier/Cortex.git
 ```
 
 #### Cloning submodules if you have already Cloned the repository
@@ -55,7 +55,7 @@ After cloning, you'll find the following structure:
 
 ## Contributing
 
-We welcome contributions to the Portfolio Project! If you're interested in contributing, please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to get started.
+We welcome contributions to the Cortex Project! If you're interested in contributing, please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to get started.
 
 ## License
 
