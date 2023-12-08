@@ -1,9 +1,10 @@
-[submodule "Host"]
-	path = Host
-	url = https://github.com/EdSpurrier/Portfolio-Host.git
+
+[submodule "Modules/Elysium"]
+	path = Modules/Elysium
+	url = https://github.com/EdSpurrier/Elysium.git
 [submodule "Utils/Tools"]
 	path = Utils/Tools
 	url = https://github.com/EdSpurrier/dev-tools.git
-[submodule "Modules/Navigation"]
-	path = Modules/Navigation
-	url = https://github.com/EdSpurrier/Portfolio-Navigation.git
+[submodule "Host"]
+	path = Host
+	url = https://github.com/EdSpurrier/Cortex-Host.git
